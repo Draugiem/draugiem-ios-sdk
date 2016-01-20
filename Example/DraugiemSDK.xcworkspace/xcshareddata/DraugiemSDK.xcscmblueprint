@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "560EBB22B6C0E830D02D9FA1749F9FDC56CCE08E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "560EBB22B6C0E830D02D9FA1749F9FDC56CCE08E" : 0,
+    "FDB81D650904411602EE6E02626955FFD2D8E473" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6CECF168-8124-4A19-9892-0E80FE4EC2F6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "560EBB22B6C0E830D02D9FA1749F9FDC56CCE08E" : "draugiem-ios-sdk\/",
+    "FDB81D650904411602EE6E02626955FFD2D8E473" : "DraugiemSDK"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DraugiemSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/DraugiemSDK.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Draugiem\/draugiem-ios-sdk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "560EBB22B6C0E830D02D9FA1749F9FDC56CCE08E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aigarssilavs\/DraugiemSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDB81D650904411602EE6E02626955FFD2D8E473"
+    }
+  ]
+}
