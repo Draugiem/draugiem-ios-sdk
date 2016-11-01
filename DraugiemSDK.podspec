@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "DraugiemSDK"
-  s.version          = "0.1.0"
+  s.version          = "0.1.2"
   s.summary          = "Official Draugiem SDK for iOS."
   s.description      = "The Draugiem SDK for iOS enables you to use Draugiem authentication."
   s.homepage         = "https://github.com/Draugiem/draugiem-ios-sdk"
@@ -22,10 +22,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
-  s.resource_bundles = {
-    'DraugiemSDK' => ['Pod/Assets/*.png']
-  }
-
   s.public_header_files = 'Pod/Classes/Public/**/*.h'
   s.frameworks = 'UIKit'
 end
