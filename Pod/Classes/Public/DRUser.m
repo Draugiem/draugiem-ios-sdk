@@ -35,7 +35,7 @@
             
             if (birthdayTimestamp != 0) {
                 _birthday = [NSDate dateWithTimeIntervalSince1970:birthdayTimestamp];
-                _age = [[NSCalendar currentCalendar] components:NSYearCalendarUnit
+                _age = [[NSCalendar currentCalendar] components:NSCalendarUnitYear
                                                        fromDate:_birthday
                                                          toDate:[NSDate date]
                                                         options:0].year;
